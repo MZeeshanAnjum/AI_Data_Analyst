@@ -119,8 +119,8 @@ Create a .env file and configure the following:
 
 - View results as an interactive table and chart.
 
-![Alt text](.\usecase1.PNG)
+![Alt text](https://github.com/MZeeshanAnjum/AI_Data_Analyst/blob/main/usecase1.PNG)
 
 ** fallback**
 - When user enters a prompt that can't be used to create and SQL according to the database schema.
-![Alt text](.\usecase2.PNG)
+![Alt text](https://github.com/MZeeshanAnjum/AI_Data_Analyst/blob/main/Usecase2.PNG)
