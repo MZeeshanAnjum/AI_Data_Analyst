@@ -24,7 +24,7 @@ The app utilizes Google Generative AI (Gemini) to generate SQL queries, processe
 
 - LangGraph — is a low-level orchestration framework for building controllable agents. While langchain provides integrations and composable components to streamline LLM application development, the LangGraph library enables agent orchestration — offering customizable architectures, long-term memory, and human-in-the-loop to reliably handle complex tasks. To learn more about langgraph, visit the [GitHub repository](https://github.com/langchain-ai/langgraph).
 
-![Alt text](URL or path to the image)
+![Alt text](https://github.com/MZeeshanAnjum/AI_Data_Analyst/blob/main/graph_image.png)
 
 ## Streamlit
 - Streamlit is an open-source app framework that allows you to create interactive and data-driven web applications in Python quickly. In this project, Streamlit was used to build a user-friendly interface that allows for easy interaction with the Cooking Assistant Agent [documentation](https://docs.streamlit.io/).
@@ -49,10 +49,9 @@ The app utilizes Google Generative AI (Gemini) to generate SQL queries, processe
 
 ## 🏗️ Use Cases
 -  User can querry about the data in its database and can get valuable insights
-![Alt text](URL or path to the image)
 
 - If the prompt is not according to the schema of database it can also acknowledge that
-![Alt text](URL or path to the image)
+
 
 ---
 
