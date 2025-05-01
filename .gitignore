@@ -1,0 +1,15 @@
+# Python-specific ignores
+__pycache__/
+test.py  
+test2.py 
+# Virtual environment
+env
+
+# Environment variables
+.env
+
+
+# VSCode settings
+.vscode/
+#Json files
+*.json
