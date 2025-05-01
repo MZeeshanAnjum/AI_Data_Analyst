@@ -29,7 +29,7 @@ The app utilizes Google Generative AI (Gemini) to generate SQL queries, processe
 ## Streamlit
 - Streamlit is an open-source app framework that allows you to create interactive and data-driven web applications in Python quickly. In this project, Streamlit was used to build a user-friendly interface that allows for easy interaction with the Cooking Assistant Agent [documentation](https://docs.streamlit.io/).
 
-![Alt text](.\front_page.PNG)
+![Alt text](https://github.com/MZeeshanAnjum/AI_Data_Analyst/blob/main/front_page.PNG)
 
 
 ---
