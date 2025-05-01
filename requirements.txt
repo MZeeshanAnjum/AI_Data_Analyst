@@ -10,3 +10,4 @@ python-dotenv>=1.1.0
 regex>=2024.11.6
 streamlit>=1.44.1
 db-dtypes
+streamlit
