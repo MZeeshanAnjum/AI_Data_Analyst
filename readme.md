@@ -120,6 +120,6 @@ Create a .env file and configure the following:
 
 ![Alt text](https://github.com/MZeeshanAnjum/AI_Data_Analyst/blob/main/usecase1.PNG)
 
-** fallback**
+## fallback
 - When user enters a prompt that can't be used to create and SQL according to the database schema.
 ![Alt text](https://github.com/MZeeshanAnjum/AI_Data_Analyst/blob/main/Usecase2.PNG)
