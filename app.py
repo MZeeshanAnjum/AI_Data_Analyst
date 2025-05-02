@@ -20,7 +20,7 @@ from langchain_core.messages import AIMessage, SystemMessage
 alt.renderers.enable('default')
 
 # Initialize Gemini API
-gemini_api_key = "AIzaSyAvPY9KmVoZMmTHEe0CpBnnXhy-IBXI7js"
+gemini_api_key = os.getenv("GEMINI_API_KEY")
 
 # Initialize BigQuery Manager
 bq_manager = initialize_components()
