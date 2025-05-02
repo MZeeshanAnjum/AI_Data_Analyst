@@ -15,7 +15,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-gemini_api_key ="AIzaSyAvPY9KmVoZMmTHEe0CpBnnXhy-IBXI7js"
+gemini_api_key =os.getenv("GEMINI_API_KEY")
 
 SCHEMA_FILE = r"D:\DataRopes\Big_Querry_project_1\university-chatbot\data\schema.txt"
 
